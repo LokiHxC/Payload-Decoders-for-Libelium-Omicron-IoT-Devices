@@ -25,3 +25,5 @@
 <h3>Frame Structure</h3>
 
 ![Tiny Frame Structure for Libelium Devices](https://github.com/LokiHxC/Decoders/blob/main/Assets/FrameSWX.png?raw=true)
+
+For more information about the Frame Structure, you can view the following link and read the sections on **Tiny Frame** and **Sensor Fields** (https://development.libelium.com/data-frame-programming-guide/frame-structure)
