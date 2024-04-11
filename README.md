@@ -24,4 +24,4 @@
 
 <h3>Frame Structure</h3>
 
-![Tiny Frame Structure for Libelium Devices](https://github.com/LokiHxC/Decoders/blob/main/Assets/SWX.png?raw=true)
+![Tiny Frame Structure for Libelium Devices](https://github.com/LokiHxC/Decoders/blob/main/Assets/FrameSWX.png?raw=true)
