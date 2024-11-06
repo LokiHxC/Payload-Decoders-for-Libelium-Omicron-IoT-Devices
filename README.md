@@ -1,6 +1,4 @@
-<h1 align="center"> Decoders </h1>
-
-<div align="center"> Payload Decoders for Libelium &amp; Omicron Devices. </div>
+<h1 align="center"> Payload Decoders for Libelium &amp; Omicron Devices. </h1>
 
 <div align="center"> 
   
